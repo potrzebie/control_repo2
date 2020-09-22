@@ -9,3 +9,4 @@ mod 'elastic-logstash', '6.0.2'
 mod 'puppetlabs-java', '2.4.0'
 mod 'elk', 
   :git => 'https://github.com/potrzebie/elk.git'
+mod 'elastic-kibana', '6.3.1'
