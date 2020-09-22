@@ -9,7 +9,6 @@ mod 'puppetlabs-java', '2.4.0'
 mod 'elk', 
   :git => 'https://github.com/potrzebie/elk.git'
 mod 'elastic-kibana', '6.3.1'
-mod 'elastic-elastic_stack', '7.0.0'
 mod 'puppetlabs-puppetdb', '6.0.2'
 mod 'puppetlabs-inifile', '2.2.0'
 mod 'puppetlabs-postgresql', '5.4.0'
